@@ -96,10 +96,10 @@
 
     <section>
         <div class="photo-container">
-            <img src="img formatura" alt="">
+            <img src="Imagem do WhatsApp de 2024-09-11 à(s) 19.01.26_a2bae815.jpg" alt="">
         </div>
         <h2>Bem-vindo à Minha Página</h2>
-        <p>Olá! Me chamo Welterson Gabriel, tenho 19 ano,
+        <p>Olá! Me chamo Welterson Gabriel, tenho 19 anos,
             sou do Estado de Minas Gerais, mas atualmente moro
             na Bahia, e estou cursando o curso de Ciência da Computação.
 
