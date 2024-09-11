@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -97,10 +96,10 @@
 
     <section>
         <div class="photo-container">
-            <img src="Imagem do WhatsApp de 2024-08-23 à(s) 09.26.48_4da3aaba.jpg" alt="">
+            <img src="img formatura" alt="">
         </div>
         <h2>Bem-vindo à Minha Página</h2>
-        <p>Olá! Me chamo Welterson Gabriel, tenho 18 ano,
+        <p>Olá! Me chamo Welterson Gabriel, tenho 19 ano,
             sou do Estado de Minas Gerais, mas atualmente moro
             na Bahia, e estou cursando o curso de Ciência da Computação.
 
